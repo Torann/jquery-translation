@@ -1,0 +1,28 @@
+{
+  "name": "jquery-trans",
+  "description": "jQuery plugin which enables you to translate text on the client side.",
+  "keywords": [
+    "translate",
+    "translation",
+    "jquery",
+    "jquery translation"
+  ],
+  "homepage": "https://github.com/torann/jquery-translation",
+  "licenses": [
+    {
+      "type": "Apache-2.0",
+      "url": "http://www.apache.org/licenses/LICENSE-2.0"
+    }
+  ],
+  "main": "jquery.tr.js",
+  "ignore": [
+    ".gitignore",
+    ".gitattributes",
+    "bower_components",
+    "tests"
+  ],
+  "version": "0.0.1",
+  "authors": [
+    "Daniel Stainback <torann@gmail.com>"
+  ]
+}
