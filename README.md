@@ -2,6 +2,14 @@
 
 jQuery Translation is a [jQuery](http://jquery.com/) plugin which enables you to translate text on the client side.
 
+## Getting Started
+
+You can install the plugin using Bower:
+
+```bash
+bower install jquery-trans
+```
+
 ## Uses a predefined dictionary
 
 You can get or set the dictionary the plugin uses by calling `$.setTranslator`. It is a object made by key-value pairs, with the original sentence or string id as key, and the translated sentence as value (or a translating function, see below).
